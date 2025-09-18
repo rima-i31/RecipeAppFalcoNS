@@ -1,9 +1,4 @@
-//
-//  RecipeManager.swift
-//  RecipeApiApp
-//
-//  Created by Rima Mihova on 22.06.2024.
-//
+
 
 import Foundation
 protocol RecipeManagerDelegate{

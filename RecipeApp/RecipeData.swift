@@ -1,9 +1,4 @@
-//
-//  RecipeData.swift
-//  intershipApp
-//
-//  Created by Rima Mihova on 05.08.2024.
-//
+
 
 import Foundation
 
